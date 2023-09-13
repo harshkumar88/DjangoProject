@@ -79,7 +79,7 @@ SecretStorage==3.3.1
 six==1.16.0
 sqlparse==0.4.4
 systemd-python==234
-typing_extensions==4.7.0
+typing-extensions>=4.0.0
 tzdata==2023.3
 ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
