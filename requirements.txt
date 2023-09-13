@@ -1,9 +1,10 @@
-apturl>=0.5.0
+apturl==0.5.2
 asgiref==3.7.2
 bcrypt==3.2.0
 blinker==1.4
 Brlapi==0.8.3
 certifi==2020.6.20
+cffi==1.15.1
 chardet==4.0.0
 chrome-gnome-shell==0.0.0
 click==8.0.3
@@ -59,6 +60,7 @@ protobuf==3.12.4
 psycopg2-binary==2.9.6
 ptyprocess==0.7.0
 pycairo==1.20.1
+pycparser==2.21
 pycups==2.0.1
 PyGObject==3.42.1
 PyJWT==2.3.0
@@ -79,7 +81,7 @@ SecretStorage==3.3.1
 six==1.16.0
 sqlparse==0.4.4
 systemd-python==234
-typing-extensions>=4.0.0
+typing_extensions==4.7.1
 tzdata==2023.3
 ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
