@@ -1,0 +1,4 @@
+.venv/
+newApiProject/__pycache__/
+myapi/__pycache__/
+myapi/migrations/__pycache__/
